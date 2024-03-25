@@ -1,4 +1,4 @@
-##Big Data - CSC 782 Fall 2023 EKU - Final Project- Textual Analysis of the EKU Student Handbook 2022 using Word Count, Term Frequency - Inverse Document Frequency and Latent Dirichlet Allocation.
+# Big Data - CSC 782 Fall 2023 EKU - Final Project- Textual Analysis of the EKU Student Handbook 2022 using Word Count, Term Frequency - Inverse Document Frequency and Latent Dirichlet Allocation.
 
 ### Components of the project
 __________________________________
